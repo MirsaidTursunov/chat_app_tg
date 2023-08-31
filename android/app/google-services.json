@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742076606910",
+    "project_id": "chat-app-tg",
+    "storage_bucket": "chat-app-tg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742076606910:android:9d2b4dd5036702b1a371ef",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_tg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742076606910-l8597v2nar1e8ai9lrjatj62i658j80h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_fd5MMUsBvlKU0vYu_EOZTsIVHwxWcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742076606910-l8597v2nar1e8ai9lrjatj62i658j80h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
